@@ -68,6 +68,9 @@ Real renders of the game, captured from the running code:
 - `screenshots/03-cockpit.jpg` — cockpit view on final approach
 - `screenshots/04-landing.jpg` — wheels down on Alder Field, sortie complete
 
+Screenshots were captured from the running game with Playwright
+(`?shot=cover|ring|cockpit|landing`, 1280×720, then JPEG quality 85).
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
